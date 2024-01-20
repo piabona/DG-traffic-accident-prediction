@@ -26,6 +26,7 @@
 - OS : Linux-6.1.58+-x86_64-with-glibc2.35
 - Google Colab GPU
   ```
+  sys : 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
   python : 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
   pandas : 1.5.3
   numpy : 1.23.5
