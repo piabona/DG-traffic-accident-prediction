@@ -1,7 +1,8 @@
 ## Dacon 대구 교통사고 피해 예측 AI 경진대회
 
-- [대회 개요](https://dacon.io/competitions/official/236193/overview/description)
-- [발표자료 pdf]()
+- 대회 개요 https://dacon.io/competitions/official/236193/overview/description
+- 2023 12월 대구 교통사고 피해 예측 AI 경진대회 (0.6%이내 - 5등/942팀)
+- 발표자료 pdf 
 
 ## Summary
 - Data selection (Daegu + 6 metropolitan cities)
