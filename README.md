@@ -8,7 +8,7 @@
 ## Summary  
 - **Data Selection** : 대구 + 6개 대도시 데이터를 선별하여 활용
 - **Preprocessing** : Target encoding, Label 인코딩 + Standard 스케일링
-- **Model** : 3개의 머신러닝 모델링 CatBoost, LightGBM, NGBoost
+- **Model** : 3개의 머신러닝 모델 활용 CatBoost, LightGBM, NGBoost
 - **Tuning** : Optuna 하이퍼파라미터 튜닝
 - **Ensemble** : 모델별로 10Fold, 3 SEED 앙상블 (총 90개의 모델 앙상블)
 
