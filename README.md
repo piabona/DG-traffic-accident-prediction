@@ -1,9 +1,9 @@
 ## Dacon 대구 교통사고 피해 예측 AI 경진대회 [Private 5th]
 
 - 대회 개요 (2023.11.15 ~ 2023.12.11) https://dacon.io/competitions/official/236193/overview/description
-- 대구 교통사고 피해 예측 AI 경진대회 (0.6%이내 - 5등/942팀)
-- 팀 코드 공유 https://dacon.io/codeshare/9505 
-- [발표자료 pdf](https://github.com/piabona/DG-traffic-accident-prediction/blob/e741e3a3d88d430936bdae88fbcf18f2588a7c62/docs/%E1%84%83%E1%85%A2%E1%84%80%E1%85%AE%20%E1%84%80%E1%85%AD%E1%84%90%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%20%E1%84%91%E1%85%B5%E1%84%92%E1%85%A2%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%20AI%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC_%E1%84%89%E1%85%A1%E1%86%B7%E1%84%8E%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A1.pdf)
+- 정형 회귀 예측 (RMSLE)
+- 성과 : private 0.6%이내 - 5등/942팀
+- 팀 [코드 공유](https://dacon.io/codeshare/9505)  /  [발표자료 pdf](https://github.com/piabona/DG-traffic-accident-prediction/blob/e741e3a3d88d430936bdae88fbcf18f2588a7c62/docs/%E1%84%83%E1%85%A2%E1%84%80%E1%85%AE%20%E1%84%80%E1%85%AD%E1%84%90%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%20%E1%84%91%E1%85%B5%E1%84%92%E1%85%A2%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%20AI%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC_%E1%84%89%E1%85%A1%E1%86%B7%E1%84%8E%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A1.pdf)
 
 ## Summary  
 - **Data Selection** : 대구 + 6개 대도시 데이터를 선별하여 활용
